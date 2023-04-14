@@ -29,10 +29,9 @@ Before running the app, make sure you have Node.js and MongoDB installed on your
 
 The server should be running on `http://localhost:4000`.
 
-5. Start the client:
-<br/>
-`cd client` 
-`npm run dev`
+5. Start the client:<br/>
+<code>cd client <br/>
+npm run dev</code><br/>
 
 The client should be running on `http://localhost:5173`.
 
