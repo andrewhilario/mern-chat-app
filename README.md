@@ -12,15 +12,15 @@ Before running the app, make sure you have Node.js and MongoDB installed on your
 `git clone https://github.com/username/chat-app.git`
 
 2. Install dependencies:
-`cd server`
-`npm install`
-`cd client`
-`npm install`
+`cd server` <br />
+`npm install` <br />
+`cd client` <br />
+`npm install` <br />
 
 3. Create a `.env` file in the root directory of the project and add the following variables:
-`MONGO_URI="mongodb+srv://admin:Drodols12!@chatapp.miwlyin.mongodb.net/?retryWrites=true&w=majority"`
-`JWT_SECRET=6oj1Z2c12IsPsxgDvzhNmtkrNTOu2M3P`
-`CLIENT_URL="http://localhost:5173"`
+`MONGO_URI="mongodb+srv://admin:Drodols12!@chatapp.miwlyin.mongodb.net/?retryWrites=true&w=majority"` <br />
+`JWT_SECRET=6oj1Z2c12IsPsxgDvzhNmtkrNTOu2M3P` <br />
+`CLIENT_URL="http://localhost:5173"` <br />
 
 
 
@@ -30,8 +30,8 @@ Before running the app, make sure you have Node.js and MongoDB installed on your
 The server should be running on `http://localhost:4000`.
 
 5. Start the client:
-`cd client`
-`npm run dev`
+`cd client` <br />
+`npm run dev` <br />
 
 The client should be running on `http://localhost:5173`.
 
