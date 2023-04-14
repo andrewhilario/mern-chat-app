@@ -9,7 +9,7 @@ The Chat App is a real-time messaging application that allows users to send mess
 Before running the app, make sure you have Node.js and MongoDB installed on your local machine or you can use MongoDB Atlas for the Mongo Url.
 
 1. Clone the repository:
-`git clone https://github.com/username/chat-app.git`
+`https://github.com/andrewhilario/mern-chat-app.git`
 
 2. Install dependencies:
 `cd server` <br />
