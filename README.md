@@ -8,32 +8,30 @@ The Chat App is a real-time messaging application that allows users to send mess
 
 Before running the app, make sure you have Node.js and MongoDB installed on your local machine or you can use MongoDB Atlas for the Mongo Url.
 
-1. Clone the repository:
+1. Clone the repository:<br/><br/>
 `https://github.com/andrewhilario/mern-chat-app.git`
 
-2. Install dependencies:
+2. Install dependencies:<br/><br/>
 `cd server` <br />
 `npm install` <br />
 `cd client` <br />
 `npm install` <br />
 
-3. Create a `.env` file in the root directory of the project and add the following variables:
+3. Create a `.env` file in the root directory of the project and add the following variables:<br/><br/>
 `MONGO_URI="mongodb+srv://admin:Drodols12!@chatapp.miwlyin.mongodb.net/?retryWrites=true&w=majority"` <br />
 `JWT_SECRET=6oj1Z2c12IsPsxgDvzhNmtkrNTOu2M3P` <br />
 `CLIENT_URL="http://localhost:5173"` <br />
 
 
 
-4. Start the server:
-`npm start`
+4. Start the server:<br/><br/>
+`npm start`<br/><br/>
+  *The server should be running on `http://localhost:4000`.*
 
-The server should be running on `http://localhost:4000`.
-
-5. Start the client:<br/>
+5. Start the client:<br/><br/>
 <code>cd client <br/>
-npm run dev</code><br/>
-
-The client should be running on `http://localhost:5173`.
+npm run dev</code><br/><br/>
+  *The client should be running on `http://localhost:5173`.*
 
 ## Usage
 
